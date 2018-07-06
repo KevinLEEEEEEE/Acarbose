@@ -52,8 +52,13 @@
     "default",
     "player",
     "bullet",
+<<<<<<< HEAD
     "moveable",
     "notch"
+=======
+    "notch",
+    "undefined"
+>>>>>>> upstream/Kevin
   ],
   "simulator-orientation": false,
   "simulator-resolution": {

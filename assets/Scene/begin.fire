@@ -3683,9 +3683,9 @@
       "__id__": 3
     },
     "followX": 300,
-    "followY": 120,
-    "minFollowDist": 50,
-    "followRatio": 0.06,
-    "minRatio": 0.02
+    "followY": 150,
+    "minFollowDist": 100,
+    "followRatio": 0.02,
+    "minRatio": 0.03
   }
 ]
